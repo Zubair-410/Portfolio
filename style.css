@@ -1,0 +1,97 @@
+#body{
+    margin: 5px;
+    padding: 2px;
+    background-color: gray;
+}
+#h3{
+    padding: 3px;
+    text-align: center;
+}
+#header{
+    padding: 5px;
+    background-color: yellow;
+    color: green;
+    text-decoration: underline;
+    font-size: 25px;
+    text-align: center;
+    border-radius: 12px;
+}
+#txt{
+    padding: 10px;
+    border-radius: 12px;
+}
+#sec2{
+    padding: 5px;
+    width: 50%;
+    border-radius: 100%;
+}
+#inname{
+    background-color: wheat;
+    padding: 5px;
+    width: 99%;
+}
+#innam{
+    background-color: wheat;
+    padding: 10px;
+    width: 98%;
+}
+#btn{
+    padding: 5px;
+    width: 25%;
+    color: white;
+    background-color: green;
+    font-size: 12px;
+    margin: auto;
+    border-radius: 25px;
+}
+#footer{
+    padding: 2px;
+    background-color: black;
+    color: white;
+    text-decoration-color: white;
+}
+
+#btn1{
+    padding: 5px;
+    color: white;
+    background-color: darkgoldenrod;
+    font-size: 12px;
+    border-radius: 10px;
+}
+#sec{
+    background-color: beige;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 5px;
+}
+#image{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
+#secp {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 5px;
+    border-radius: 5px;
+}
+#project{
+    flex: 1;
+    max-width: 45%; 
+    background-color: aqua;
+    border-radius: 12px;
+    padding: 20px;
+    border: 1px solid black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+#secintro{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(231, 201, 162);
+    border-radius: 30px;
+}
